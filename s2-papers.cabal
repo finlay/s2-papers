@@ -1,7 +1,6 @@
 name:                rob-elshire-citations
 version:             0.1.0.0
 license:             BSD3
-license-file:        LICENSE
 author:              Finlay Thompson
 maintainer:          finlay@dragonfly.co.nz
 build-type:          Simple

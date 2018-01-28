@@ -1,4 +1,4 @@
-PROJ := rob-elshire-citations
+PROJ := s2-papers
 
 
 default.nix: $(PROJ).cabal
