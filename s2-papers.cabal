@@ -1,4 +1,4 @@
-name:                rob-elshire-citations
+name:                s2-papers
 version:             0.1.0.0
 license:             BSD3
 author:              Finlay Thompson
@@ -7,7 +7,7 @@ build-type:          Simple
 extra-source-files:  ChangeLog.md
 cabal-version:       >=1.10
 
-executable rob-elshire-citations
+executable s2-papers
   main-is:             Main.hs
   build-depends:       base >=4.10 && <4.11
                      , aeson

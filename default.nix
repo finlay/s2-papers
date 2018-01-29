@@ -1,6 +1,6 @@
 { mkDerivation, aeson, base, bytestring, cassava, stdenv, text }:
 mkDerivation {
-  pname = "rob-elshire-citations";
+  pname = "s2-papers";
   version = "0.1.0.0";
   src = ./.;
   isLibrary = false;
